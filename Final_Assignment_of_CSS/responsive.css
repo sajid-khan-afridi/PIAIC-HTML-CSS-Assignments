@@ -1,0 +1,108 @@
+@media (max-width: 575.98px) { 
+    #about{
+        height: 103vh;
+    }
+    #h1-carousel{
+        text-align: center;
+    }
+    .img-craousel{
+        min-height: 300px;
+        max-height: 300px;
+    }
+}
+@media (min-width: 575.99px) and (max-width: 767.98px) {  
+    #about{
+        height: 103vh;
+    }
+    .img-craousel{
+        min-height: 400px;
+        max-height: 400px;
+    }
+    #h1-carousel{
+        position: absolute;
+        bottom:10px;
+        left: 10px;
+        font-size:5px;
+        color:white;
+    }
+    
+    #h2-carousel{
+        position: absolute;
+        bottom:70px;
+        left: 10px;
+        font-size:40px;
+        color:white;
+        text-align: left;
+    
+    }
+
+}
+
+
+@media (min-width: 767.99px) and (max-width: 991.98px) {
+    #col-header-description{
+        margin-left: 25%;
+    }
+    #col1{
+        margin-left: 25%;
+        transform: scale(1.5);
+    }
+    .img-craousel{
+        min-height: 500px;
+        max-height: 500px;
+    }
+    #h1-carousel{
+        /* position: absolute; */
+        bottom:200px;
+        left: 60px;
+        font-size:50px;
+        color:white;
+       
+        
+      
+    }
+    
+    #h2-carousel{
+        position: absolute;
+        bottom:70px;
+        left: 10px;
+        font-size:30px;
+        color:white;
+        text-align: left;
+    
+    }
+}
+@media (min-width: 991.99px) and (max-width: 1199.98px) { 
+    #col-header-description{
+        margin-left: 20%;
+    }
+    #col1{
+        margin-left: 25%;
+        transform: scale(1.2);
+    }
+    .img-craousel{
+        min-height: 600px;
+        max-height: 600px;
+    }
+
+    #h1-carousel{
+        position: absolute;
+        bottom:300px;
+        left: 60px;
+        font-size:60px;
+        color:white;
+    }
+    
+    #h2-carousel{
+        position: absolute;
+        bottom:100px;
+        left: 60px;
+        font-size:35px;
+        color:white;
+        text-align: left;
+    
+    }
+}
+@media (min-width: 1199.99px) and (max-width: 1399.98px) {
+
+ }

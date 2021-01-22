@@ -1,0 +1,24 @@
+body{
+    color: #474947;
+    font-family: tohama;
+    padding: 20px;
+    font-size:large;
+    width:675px;
+}
+#shadowblur{
+    text-shadow: 0px 1px 5px  #474947;
+}
+.h3firstcharacter::first-letter{
+    font-size: 150%;
+
+}
+li a:link,li a:visited{
+    text-decoration:none;
+    color: rgb(37, 37, 246);
+}
+li{
+    padding:10px;
+}
+.italic{
+    font-style:italic;
+}

@@ -1,0 +1,162 @@
+nav{
+    box-shadow: 0px 2px 2px 0px aqua;
+    font-size: 20px;
+}
+
+#col-header-description{
+    margin-top: 20%;
+    padding-left: 40px;
+}
+#col{
+    width:50px;
+    margin-top: 5%;
+}
+.header{
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.39),black), url("images/2.jpg");
+    height: 850px;
+    background-attachment: fixed;
+    
+}
+#h1-header{
+    color:white;
+    margin-bottom:1rem;
+}
+#h2-header{
+    color:aqua;
+    margin-bottom:2rem;
+}
+#btn-header{
+    background-color: aqua;
+}
+.line{
+    height: 5px;
+    background-color: aqua;
+    
+}
+
+/* about us page */
+
+
+.about{
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.602),rgb(0, 0, 0)), url("images/2.jpg");
+    height: 99vh;
+    color:white;
+    background-attachment: fixed;
+}
+
+#line-small{
+    margin-left: 5px;
+    height: 5px;
+    background-color: aqua;
+    width:80px;
+}
+/* .img-about{
+    height: 600px;
+    width:400px;
+} */
+
+/* Carousel page */
+#h1-carousel{
+    position: absolute;
+    bottom:300px;
+    left: 60px;
+    font-size:105px;
+    color:white;
+}
+
+#h2-carousel{
+    position: absolute;
+    bottom:100px;
+    left: 60px;
+    font-size:50px;
+    color:white;
+    text-align: left;
+
+}
+
+.img-craousel{
+    min-height: 700px;
+    max-height: 700px;
+}
+
+.btn-icon{
+    fill:aqua;
+    color:aqua;
+}
+.carousel-control-prev{
+    background-image: fill='aqua';
+}
+
+/* Feature Page */
+
+.img-features{
+    max-height: 500px;
+    border-radius: 10px ;
+    border:5px solid aqua;
+
+}
+
+.features{
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.602),rgb(0, 0, 0)), url("images/2.jpg");
+    /* height: 75vh; */
+    color:white;
+    background-attachment: fixed;
+}
+
+#text-features{
+    font-style: italic;
+}
+
+/* contact form page */
+.contact{
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.602),rgb(0, 0, 0)), url("images/2.jpg");
+    height: 80vh;
+    color:white;
+    background-attachment: fixed;
+}
+.img-form{
+    max-height: 500px;
+    border-radius: 10px ;
+    border:5px solid aqua;
+   
+
+}
+
+/* counter page */
+
+
+#fab{
+    color:aqua;
+    /* margin-top: 35px;
+    font-size: 60px;
+    margin-bottom: 35px; */
+
+}
+
+.counter-section{
+    background-image:linear-gradient(to right,rgba(122, 68, 68, 0.602),rgb(0, 0, 0)), url("images/9.jpg");
+    /* height: 50vh; */
+    color:white;
+    background-attachment: fixed;
+    font-size:60px;
+    background-size: cover;
+}
+/* footer section */
+.footer{
+    background-image:linear-gradient(to right,rgba(7, 7, 7, 0.719),rgba(0, 0, 0, 0.726)), url("images/10.jpg");
+    height: 27vh;
+    color:aqua;
+    
+    font-size:60px;
+    background-size: cover;
+}
+#fab2{
+  padding-top: 50px;
+  padding-left: 50px;
+ 
+}
+.tl,.tl a{
+    color:white;
+    font-size:30px;
+}
+
